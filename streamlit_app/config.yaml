@@ -1,0 +1,13 @@
+credentials:
+  usernames:
+    johndoe:
+      name: John Doe
+      password: hashed_password1
+    janesmith:
+      name: Jane Smith
+      password: hashed_password2
+
+cookie:
+  name: 'cookie_name'
+  key: 'signature_key'
+  expiry_days: 0.0006944
